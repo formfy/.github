@@ -1,7 +1,7 @@
 <a href="https://formfy.app">
   <img
     alt="Formfy é a infraestrutura open source para criação e gestão de formulários."
-    src="https://github.com/formfy/assets/blob/5a9c961ca3f3587107fa19de1650f3c5e56394a8/github_images/capa_readme.png">
+    src="https://assets.formfy.com.br/assets/capa.png">
 </a>
 <br />
 <br />
@@ -12,5 +12,5 @@
   <br />
   <a href="https://github.com/formfy">Repositórios</a>
   ·
-  <a href="https://formfy.app/docs">Documentação</a>
+  <a href="https://formfy.com.br/docs">Documentação</a>
 </p>
