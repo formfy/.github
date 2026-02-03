@@ -6,7 +6,7 @@
 <br />
 <br />
 <p align="center">
-  Infraestrutura open source para criação, coleta e gestão de formulários.
+  Infraestrutura para criação e gestão de formulários.
   <br />
 
   <br />
