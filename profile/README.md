@@ -8,8 +8,7 @@
 <p align="center">
   Infraestrutura open source para criação, coleta e gestão de formulários.
   <br />
-  <a href="https://formfy.app"><strong>Conheça a plataforma »</strong></a>
-  <br />
+
   <br />
   <a href="https://github.com/formfy">Repositórios</a>
   ·
